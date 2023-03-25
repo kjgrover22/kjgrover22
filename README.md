@@ -3,16 +3,16 @@
 <h2> GIS Projects </h2>
 
 - <b> City of La Crosse - Curb and Ramp Accessibility Project </b>
-  - [City of La Crosse - GIS](https://github.com/kjgrover22)
+  - [City of La Crosse - GIS](https://github.com/kjgrover22/CityOfLaCrosse)
   
  - <b> Web Mapping - Final Project </b>
-   - [Visualizing Interstate Impacts in US Cities](https://github.com/kjgrover22)
+   - [Visualizing Interstate Impacts in US Cities](https://github.com/kjgrover22/WebMapping)
   
  - <b> GIS II - Final Project </b>
-   - [EV Station Location Suitability in Two Canadian Cities](https://github.com/kjgrover22)
+   - [EV Station Location Suitability in Two Canadian Cities](https://github.com/kjgrover22/GISII)
   
  - <b> Map design - Final Project </b> 
-   - [Map of Upper Hixon Forest Hiking and Biking Trails](https://github.com/kjgrover22)
+   - [Map of Upper Hixon Forest Hiking and Biking Trails](https://github.com/kjgrover22/MapDesign)
 
 <h2> Skills </h2>
 
