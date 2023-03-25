@@ -16,15 +16,15 @@
 
 <h2> Skills </h2>
 
-- GIS Software
+- <b> GIS Software </b> 
     - ESRI's ArcGIS Desktop, ArcGIS Online, ArcGIS Pro and ArcGIS Field App, ArcGIS Extensions: Spatial Analysis, Network Analysis, 3D Analysis, GeoDa, GoogleEarth, Leaflet, ERDAS Imagine, QT Modeler, eCognition Developer ENVI
-- GIS Skills
+- <b> GIS Skills </b> 
     - spatial analysis, field data collection, cartography, map design, database management, model building, project managment, digitization, geo-referencing 
-- Computer Programing / Web Development  
+- <b> Computer Programing / Web Development </b> 
     - Basic Python understanding, Basic HTML, CSS, and Javascript 
-- Microsoft Office
+- <b> Microsoft Office </b> 
     - Word, Excel and Powerpoint
-- Adobe Creative Suite
+- <b> Adobe Creative Suite </b> 
     - Illustrator and Photoshop 
 
 
