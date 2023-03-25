@@ -30,4 +30,4 @@
 
 <h2> Resume </h2>
 
-- [My Current Resume](https://github.com/kjgrover22) 
+- [My Current Resume](https://github.com/kjgrover22/Resume) 
